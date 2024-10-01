@@ -3,68 +3,71 @@ layout: default
 title: "Home"
 ---
 
-# Optimizing Supercomputing Application Performance
+# Optimizing Performance in High-Performance Computing Environments
 
-At XYZ Research Group, we are dedicated to improving the performance and efficiency of applications running on some of the world’s largest and most powerful supercomputers. Our research focuses on developing innovative techniques, algorithms, and tools that optimize the utilization of high-performance computing (HPC) systems.
+At XYZ Research Group, we are dedicated to addressing the challenges posed by increasingly **heterogeneous High-Performance Computing (HPC)** environments. Our research aims to develop data-driven models and machine learning (ML)-based solutions to improve the performance and efficiency of applications running on supercomputers.
 
-We collaborate with industry leaders and academic institutions to ensure that our work has a direct impact on advancing the field of supercomputing, enabling researchers to solve complex scientific and engineering problems more efficiently.
+We are focused on **automating decision-making** in these complex environments by combining **AI/ML techniques** with HPC expertise. Our work spans several areas including performance characterization, bottleneck detection, reproducibility, and the creation of scalable, efficient models that support real-time decision-making.
 
 ---
 
 ## Our Research Focus
 
-### 1. **Application Performance Optimization**
-We analyze and optimize the performance of large-scale applications, ensuring they make efficient use of computational resources. Our work spans multiple domains, including climate modeling, molecular dynamics, and artificial intelligence, with a focus on scalability and parallelism.
+### 1. **Data Representation for Performance Modeling**  
+We are developing new methods to represent multi-modal performance data using graph-based techniques, which improve **real-time decision-making** by accurately clustering performance samples. This innovative approach enhances the ability to quickly classify new data, yielding performance models that are up to 61% more accurate than state-of-the-art methods.
 
-### 2. **Scalable Algorithms for HPC**
-We design and implement new algorithms tailored to take full advantage of modern supercomputing architectures, including multi-core processors and distributed memory systems.
+- **Impact**: Enables time- and data-efficient decision-making, with applications in disaster response, manufacturing, and autonomous vehicles.
 
-### 3. **Performance Monitoring and Profiling Tools**
-We develop advanced profiling tools that monitor application performance in real-time, allowing developers to identify bottlenecks and improve computational efficiency.
+### 2. **AI/ML-Based Performance Models**  
+Our research also involves designing AI/ML methodologies that can use these advanced data representations to optimize performance across diverse HPC environments. We aim to develop models that balance performance, power efficiency, system utilization, and variability.
 
-### 4. **Energy-Efficient Computing**
-Our research also explores methods to minimize the energy consumption of large-scale computations without sacrificing performance, contributing to the sustainability of supercomputing environments.
+- **Impact**: Successful technology transfers, including integration with Lawrence Berkeley Lab's GPTune auto-tuner and AMD’s OmniPerf.
+
+### 3. **Cross-Platform Performance Modeling**  
+To address the challenges of predicting performance on new architectures, we combine **few-shot learning** with **generative AI** techniques. This allows us to synthesize performance models with minimal data collection, which is essential given the rapid development of new supercomputing architectures.
+
+- **Impact**: Enables faster scientific discovery and supercomputer evaluation by reducing the time needed to collect performance data.
+
+### 4. **Reproducibility and FAIR Data in HPC**  
+Our novel approaches also focus on making HPC performance data reproducible and **FAIR (Findable, Accessible, Interoperable, Reusable)**. By improving metadata collection practices and applying graph-based ML models, we aim to make performance results more reliable across different environments.
+
+- **Impact**: Contributes to future reproducibility in science and HPC research.
 
 ---
 
 ## Recent Publications
 
-Here are some of our recent publications that highlight our latest findings:
+Below is a list of our recent publications:
 
-- **Scaling Molecular Dynamics Simulations on Exascale Supercomputers**. *Journal of Computational Physics*, 2023. [DOI:10.1234/jcp2023-xyz](#)
-- **Optimizing AI Workflows on High-Performance Computing Clusters**. *Supercomputing Conference (SC'22)*, 2022. [DOI:10.1234/sc22-xyz](#)
-- **Energy-Efficient Algorithms for Supercomputing Applications**. *IEEE Transactions on Parallel and Distributed Systems*, 2021. [DOI:10.1234/ieee2021-xyz](#)
+1. **Signal Processing Based Method for Real-Time Anomaly Detection in High-Performance Computing**  
+   *2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC)*, pp. 233-240.  
+   [DOI: Available soon]
 
-You can view a full list of our publications [here](/publications).
+2. **Novel Representation Learning Technique using Graphs for Performance Analytics**  
+   *2023 International Conference on Machine Learning and Applications (ICMLA)*, pp. 1311-1318.  
+   [DOI: Available soon]
 
----
+3. **Toward Efficient Deep Learning Inference: On-Node Heterogeneous Scheduling in Edge-Cloud Infrastructure**  
+   *2024 IEEE Cloud Summit*, pp. 73-78.  
+   [DOI: Available soon]
 
-## Meet Our Team
+4. **Data-Driven Analysis to Understand GPU Hardware Resource Usage of Optimizations**  
+   *arXiv preprint arXiv:2408.10143*, 2024.  
+   [DOI: Available soon]
 
-We are a team of dedicated researchers, engineers, and students passionate about pushing the boundaries of high-performance computing.
+5. **PERFGEN: A Synthesis and Evaluation Framework for Performance Data using Generative AI**  
+   *2024 IEEE 48th Annual Computers, Software, and Applications Conference (COMPSAC)*, pp. 188-197.  
+   [DOI: Available soon]
 
-- **Dr. X**: Lead Researcher in HPC Application Optimization.
-- **Dr. Y**: Senior Researcher specializing in scalable algorithms.
-- **Dr. Z**: Postdoctoral Fellow focusing on energy-efficient computing.
-- **Graduate Students**: Working on various aspects of supercomputing and performance optimization.
-
-Learn more about the team [here](/team).
-
----
-
-## Collaborations and Partnerships
-
-We are proud to collaborate with top research institutions and industry leaders, including:
-
-- **National Supercomputing Center**: Collaborating on optimizing climate models.
-- **TechCorp HPC Division**: Working together to improve the performance of AI training on supercomputers.
-- **Global Research University**: Partnering on energy-efficient algorithms and sustainable computing.
+6. **On The Role of Prompt Construction In Enhancing Efficacy and Efficiency of LLM-Based Tabular Data Generation**  
+   *arXiv preprint arXiv:2409.03946*, 2024.  
+   [DOI: Available soon]
 
 ---
 
-## Contact Us
+## Collaborate With Us
 
-Interested in collaborating or learning more about our work? Feel free to [get in touch](mailto:contact@xyzresearch.org) with us. We'd love to hear from you!
+Interested in collaborating or learning more about our work? Feel free to [contact us](mailto:contact@xyzresearch.org). We'd love to hear from you!
 
 ---
 
