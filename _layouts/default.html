@@ -9,7 +9,9 @@
   <header>
     <h1>{{ site.title }}</h1>
     <nav>
-      <a href="/">Home</a> | <a href="/team.html">Team</a> | <a href="/publications.html">Publications</a>
+      <a href="{{ '/' | relative_url }}">Home</a> |
+<a href="{{ '/team' | relative_url }}">Team</a> |
+<a href="{{ '/publications' | relative_url }}">Publications</a>
     </nav>
   </header>
 
