@@ -5,7 +5,7 @@ title: "Home"
 
 # Optimizing Performance in High-Performance Computing Environments
 
-At XYZ Research Group, we are dedicated to addressing the challenges posed by increasingly **heterogeneous High-Performance Computing (HPC)** environments. Our research aims to develop data-driven models and machine learning (ML)-based solutions to improve the performance and efficiency of applications running on supercomputers.
+The Intelytics project addresses the challenges posed by increasingly **heterogeneous High-Performance Computing (HPC)** environments. Our research aims to develop data-driven models and machine learning (ML)-based solutions to improve the performance and efficiency of applications running on supercomputers.
 
 We are focused on **automating decision-making** in these complex environments by combining **AI/ML techniques** with HPC expertise. Our work spans several areas including performance characterization, bottleneck detection, reproducibility, and the creation of scalable, efficient models that support real-time decision-making.
 
