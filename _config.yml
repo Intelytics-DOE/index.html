@@ -2,7 +2,7 @@ title: "Intelytics"
 description: "Welcome to the Intelytics project's website."
 url: "https://intelytics.github.io"
 baseurl: ""  # Leave this blank if using intelytics.github.io domain
-theme: jekyll-theme-modernist  # GitHub Pages-supported Jekyll theme
+theme: minima  # GitHub Pages-supported Jekyll theme
 
 # Markdown and permalinks settings
 markdown: kramdown
